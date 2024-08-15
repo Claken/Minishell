@@ -30,11 +30,11 @@ make
 ```
 You will have an executable called "minishell". <br/>
 
-## 🗒️ Documentation
-
-[Bash Reference Manuel](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Basic-Shell-Features)
-
 Launch the program with this command :
 ```
 ./minishell
 ```
+
+## 🗒️ Documentation
+
+[Bash Reference Manuel](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Basic-Shell-Features)
