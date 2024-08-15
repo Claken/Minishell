@@ -13,7 +13,14 @@ A shell is a computer program (software) that exposes an operating system's serv
 
 ## 📦 Prerequisites
 
-
+You need to install clang if you don't have it :
+```
+sudo apt install clang
+```
+You also need to install 'readline/readline.h' if it turns out that the file is missing :
+```
+sudo apt-get install libreadline-dev
+```
 
 ## 🚀 Usage
 
