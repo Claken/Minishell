@@ -29,3 +29,8 @@ type this command at the root of the project :
 make
 ```
 You will have an executable called "minishell". <br/>
+
+Launch the program with this command :
+```
+./minishell
+```
