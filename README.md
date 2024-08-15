@@ -11,6 +11,10 @@ A shell is a computer program (software) that exposes an operating system's serv
 - I learned how to handle [signals](https://en.wikipedia.org/wiki/Signal_(IPC)).
 - I learned to use [pipes](https://www.geeksforgeeks.org/pipe-system-call/) to communicate with different processes.
 
+## 📦 Prerequisites
+
+
+
 ## 🚀 Usage
 
 type this command at the root of the project :
