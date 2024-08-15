@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   expand_var.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: earruaba <earruaba@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sachou <sachou@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/11 13:51:23 by earruaba          #+#    #+#             */
-/*   Updated: 2021/11/25 02:07:13 by earruaba         ###   ########.fr       */
+/*   Updated: 2024/08/16 00:14:16 by sachou           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,9 +51,6 @@ int	condi_var(char *str, char *env)
 
 char	*search_var_norm(char *str, int j, t_data *d)
 {
-	char	*tmp;
-
-	tmp = NULL;
 	if (ft_strlen(str) > 1 && str[0] == '$')
 	{
 		if (condi_var(str, d->env[j]))
