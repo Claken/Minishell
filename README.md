@@ -38,7 +38,7 @@ Launch the program with this command :
 ```
 ./minishell
 ```
-It will look something like this :
+It will look something like this : <br/>
 ![minishell](https://github.com/user-attachments/assets/725613f6-28bc-40a4-a795-9f371e201fb7)
 
 ## 🗒️ Documentation
