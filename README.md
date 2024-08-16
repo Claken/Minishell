@@ -10,6 +10,7 @@ A shell is a computer program (software) that exposes an operating system's serv
 - I learned to use [fork](https://www.geeksforgeeks.org/fork-system-call/) to create parent and child processes.
 - I learned how to handle [signals](https://en.wikipedia.org/wiki/Signal_(IPC)).
 - I learned to use [pipes](https://www.geeksforgeeks.org/pipe-system-call/) to communicate with different processes.
+- I used [wait](https://www.geeksforgeeks.org/wait-system-call-c/) to manipulate child processes.
 
 ## 📦 Prerequisites
 
