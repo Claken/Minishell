@@ -6,7 +6,7 @@ A shell is a computer program (software) that exposes an operating system's serv
 
 ## 👩🏻‍🏫 What I gained from the project
 - I learned how to work on a big project in pairs.
-- I've gained a deeper understanding of the concept of [process](https://en.wikipedia.org/wiki/Process_(computing)) and the f
+- I've gained a deeper understanding of the concept of [process](https://en.wikipedia.org/wiki/Process_(computing)) and the functioning of a shell.
 - I learned to use [fork](https://www.geeksforgeeks.org/fork-system-call/) to create parent and child processes.
 - I learned how to handle [signals](https://en.wikipedia.org/wiki/Signal_(IPC)).
 - I learned to use [pipes](https://www.geeksforgeeks.org/pipe-system-call/) to communicate with different processes.
