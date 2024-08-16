@@ -13,7 +13,7 @@ A shell is a computer program (software) that exposes an operating system's serv
 
 ## 📦 Prerequisites
 
-Before executing the prereauisites, I advice you to update and upgrade your packages :
+Before executing the prerequisites, I advice you to update and upgrade your packages :
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y
 ```
